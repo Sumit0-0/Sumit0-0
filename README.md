@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit Singh Thakur
 - 👀 I’m interested in Web Development & Data Structures
-- 🌱 I’m currently exploring Frontend to Backend & Advanced Algorithms
+- 🌱 I’m currently exploring Full Stack Web Dev & Advanced Algorithms
 - 😄 Pronouns: He/Him (just a regular guy)
 - ⚡ Fun fact: I debug more than I code!
